@@ -1,7 +1,7 @@
 <file_config>
 
     <base_location main_file="main.sql" bat_file="main.bat">
-        D:/REFERENCES/DB_Scripts/EDI_database/
+        database/location
     </base_location>
     
 </file_config>

@@ -13,7 +13,7 @@ import (
 
 func main() {
 
-	xmlFile, err := os.Open("C:/project/practice/GO/updateFilePath/")
+	xmlFile, err := os.Open("filepath")
 	if err != nil {
 		fmt.Println(err.Error())
 	}
