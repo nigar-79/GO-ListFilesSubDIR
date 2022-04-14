@@ -13,7 +13,7 @@ import (
 
 func main() {
 
-	xmlFile, err := os.Open("filepath")
+	xmlFile, err := os.Open("dir-location")
 	if err != nil {
 		fmt.Println(err.Error())
 	}

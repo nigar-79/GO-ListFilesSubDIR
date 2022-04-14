@@ -1,7 +1,7 @@
 <file_config>
 
     <base_location main_file="main.sql" bat_file="main.bat">
-        database/location
+        directory/location
     </base_location>
     
 </file_config>
